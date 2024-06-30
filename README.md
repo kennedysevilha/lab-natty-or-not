@@ -21,4 +21,11 @@ Studio.d-id:
 Criação elaborada por passos, escolha de avatar, texto a ser falado e fundo do video.
 
 ## 🚀 Resultados
-Apresente os resultados do seu projeto
+<p align="center">
+<img 
+    src="arquivos/foto.jpeg"
+    width="400"  
+
+[![Assistir ao vídeo](arquivos/capa.png)](arquivos/video.mp4)
+/>
+</p>
